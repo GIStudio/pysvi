@@ -12,13 +12,15 @@ This library provides a `Photo` class to handle basic street view image processi
 ## Installation
 
 1. Ensure you have Python installed.
-2. Install the Pillow library if you haven't already:
+2. Download or clone this repository.
+3. Include the street_view directory in your project.
 
-   ```bash
-   pip install pillow
-   ```
-3. Download or clone this repository.
-4. Include the street_view directory in your project.
+### Install on Colab or Kaggle
+run this (you may need restart the session)：
+```
+!pip install hatchling
+!pip install git+https://github.com/GIStudio/StreetSolarTrack.git
+```
 
 ## Usage
 Here is a basic example of how to use the `Photo` class:
