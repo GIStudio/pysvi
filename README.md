@@ -9,6 +9,10 @@ This library provides a `Photo` class to handle basic street view image processi
 - Get image dimensions (width and height)
 - Get image file size
 
+## TODO
+- [ ] API https://www.modelscope.cn/models/iic/cv_swinL_panoptic-segmentation_cocopan 
+- [ ] 分割后处理
+
 ## Installation
 
 1. Ensure you have Python installed.
